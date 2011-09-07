@@ -28,6 +28,14 @@ Files
 		* iPhone Landscape -> 320x480
 		* iPhone Portrait -> 480x320
 
+Plays with Others
+------------
+
+The Responsive Web Design Artboards were designed for use with [Adapt.js](https://github.com/nathansmith/adapt). 
+
+Take a look at Adapt.js when you are ready to take the designs into web production.
+
+
 Contributing
 ------------
 
