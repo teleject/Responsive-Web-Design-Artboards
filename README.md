@@ -33,7 +33,7 @@ Plays Well with Others
 
 * The Responsive Web Design Artboards were designed for use with [Adapt.js](https://github.com/nathansmith/adapt). Take a look at Adapt.js when you are ready to take the designs into web production.
 
-* For help with designing native iOS apps, check out [iPhone](http://www.teehanlax.com/downloads/iphone-sketch-elements-a/) and (iPad stencils)[http://www.teehanlax.com/downloads/ipad-sketch-elements-ai/]. 
+* For help with designing native iOS apps, check out [iPhone](http://www.teehanlax.com/downloads/iphone-sketch-elements-a/) and [iPad stencils](http://www.teehanlax.com/downloads/ipad-sketch-elements-ai/). 
 
 
 Contributing
