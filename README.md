@@ -19,14 +19,26 @@ Files
 	
 * iPhone iPad Web Design Artboards.ai
 
-	* Contains six (6) artboards for iPhone and iPad:
+	* Contains eighteen (18) artboards for iPhone and iPad:
 
 		* iPad Landscape -> 1024×768 
 		* iPad Portrait -> 768x1024
+		* iPad (Retina) Landscape -> 2048x1536
+		* iPad (Retina) Portrait -> 1536x2048
 		* iPhone (Retina) Landscape -> 640x960
 		* iPhone (Retina) Portrait -> 960x640
 		* iPhone Landscape -> 320x480
 		* iPhone Portrait -> 480x320
+		* iPhone 5/5s Landscape -> 1136x640
+		* iPhone 5/5s Portrait -> 640x1136
+		* iPhone 6 (display zoom) Landscape -> 1136x640
+		* iPhone 6 (display zoom) Portrait -> 640x1136
+		* iPhone 6 Landscape -> 1334x750
+		* iPhone 6 Portrait -> 750x1334
+		* iPhone 6+ (display zoom) Landscape -> 2001x1125
+		* iPhone 6+ (display zoom) Portrait -> 1125x2001
+		* iPhone 6+ Landscape -> 2208x1242
+		* iPhone 6+ Portrait -> 1242x2208
 
 Plays Well with Others
 ------------
